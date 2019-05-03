@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import { render } from "react-dom";
-import App from "./app";
+import App from "./app.js";
 import "./css/bootstrap.css";
 import "./css/responsive.css";
 import "./css/ui.css";

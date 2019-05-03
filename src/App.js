@@ -15,7 +15,7 @@ class App extends Component {
 				stars: 1.5,
 				color: "Black",
 				material: "Aluminium",
-				title: "OnePlus 6T",
+				title: "OnePlus 6T", 
 				description:
 					"With the 6T, you get an impressive 6.41 inch AMOLED screen, a unique 16 + 24 megapixel dual camera packed with high-end features and fingerprint sensor built into the touch screen."
 			},
